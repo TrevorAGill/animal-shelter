@@ -1,0 +1,39 @@
+body{
+  background: skyblue;
+}
+.columns div{
+  /*background: skyblue;*/
+  width: 22.5%;
+  border: 1px solid black;
+  padding: 4px;
+  margin: 1px;
+  /*column-count: 4;*/
+}
+.elephant{
+  float: left;
+  background-color: #989995;
+}
+
+.pterodactyl{
+  float: left;
+  background-color: #F18B7B;
+}
+
+.tiger{
+  float: left;
+  background-color: #F1CA7B;
+}
+
+.unicorn{
+  float: left;
+  background-color: #FAFAC5;
+}
+
+img{
+  width: 100%;
+  height: auto;
+}
+
+h1{
+  text-align: center;
+}
