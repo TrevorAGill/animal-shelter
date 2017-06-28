@@ -1,0 +1,23 @@
+.center{
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
+
+.about{
+  font-size: 150%;
+  color: green;
+}
+
+.education{
+  font-style: oblique;
+}
+
+.work{
+  font-family: sans-serif;
+}
+
+.year{
+  font-weight: bolder;
+  color: red;
+}
