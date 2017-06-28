@@ -1,13 +1,18 @@
+
 body{
   background: skyblue;
 }
+@media screen and (min-width: 800px){
 .columns div{
   /*background: skyblue;*/
   width: 22.5%;
   border: 1px solid black;
   padding: 4px;
   margin: 1px;
+  display: block;
   /*column-count: 4;*/
+}
+
 }
 .elephant{
   float: left;
